@@ -1,0 +1,1 @@
+{"version":1,"defects":{"UserTest::testInstanceUserWhenIsNull":3,"UserTest::testSaveUserRepository":3},"times":{"UserTest::testConstructorAndGetters":0.005,"UserTest::testSetter":0,"UserTest::testSetterNameUser":0,"UserTest::testSetterEmailUser":0,"UserTest::testSetterPasswordUser":0,"UserTest::testInstanceUserWhenIsNull":0.001,"UserTest::testSaveUserRepository":0}}
